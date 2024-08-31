@@ -13,8 +13,6 @@ public class ProductPage {
 
 //    private final  add-to-cart-sauce-labs-bike-light
 
-
-
     // constructor
     public ProductPage(WebDriver driver)
     {

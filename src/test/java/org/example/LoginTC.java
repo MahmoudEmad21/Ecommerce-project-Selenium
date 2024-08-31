@@ -14,7 +14,6 @@ public class LoginTC {
     String productName = "add-to-cart-sauce-labs-bike-light";
     String ProductName2 = "backpack";
 
-
     @BeforeTest
     public void OpenBrowser(){
         driver = new ChromeDriver();
